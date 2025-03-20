@@ -16,8 +16,6 @@ online-learning-platform/
 - 👥 Role-based Access Control (Admin, Instructor, Student)
 - 📚 Course Management
 - 📝 Content Management
-- 👨‍🏫 Instructor Dashboard
-- 👨‍🎓 Student Dashboard
 - 📱 Responsive Design
 
 ## Technology Stack
