@@ -1,0 +1,17 @@
+src/
+├── components/
+│   ├── Auth/
+│   │   ├── Login.js
+│   │   └── Signup.js
+│   ├── Course/
+│   │   ├── CourseList.js
+│   │   └── CourseDetail.js
+│   └── Layout/
+│       ├── Navbar.js
+│       └── PrivateRoute.js
+├── services/
+│   ├── authService.js
+│   ├── courseService.js
+│   └── userService.js
+├── App.js
+└── index.js
